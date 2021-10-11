@@ -1,4 +1,0 @@
-type=entity
-matchItems=creeper
-texture=creeperANDRO.png
-nbt.display.Name=ipattern:Andronix
