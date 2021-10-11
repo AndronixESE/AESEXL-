@@ -20,3 +20,5 @@ https://www.planetminecraft.com/texture-pack/better-paintings-3967215/
 https://www.reddit.com/r/Minecraft/comments/nldmtp/i_kept_accidentally_creating_duration_1_fireworks/
 https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0/files
 https://www.curseforge.com/minecraft/texture-packs/water-improved/files
+ list is still not complete but in free time ill try to do it :)
+ 
