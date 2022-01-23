@@ -22,6 +22,7 @@ https://www.planetminecraft.com/texture-pack/bettercarpets/
 https://www.planetminecraft.com/texture-pack/re-archery/
 https://www.planetminecraft.com/texture-pack/minecraft-dungeons-half-grown-grass/
 https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets/
+https://www.planetminecraft.com/texture-pack/dswg-color-recipe-book-1-12-1-18/
 
 special credit goes to: 
 RobiTheRainBoy and Mintorim that made my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/
