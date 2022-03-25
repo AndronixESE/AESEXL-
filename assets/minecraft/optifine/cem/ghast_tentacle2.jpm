@@ -1,0 +1,18 @@
+{
+"textureSize": [256, 128],
+"scale": 1,
+"credit": "By DraminOver",
+"boxes": 
+	[
+		{
+			"coordinates": [-1.25, -1.5, -0.7, 1.77875, 11.561875, 1.77875],
+			"uvEast": [0, 8, 8, 64],
+			"uvNorth": [8, 8, 16, 64],
+			"uvWest": [16, 8, 24, 64],
+			"uvSouth": [24, 8, 32, 64],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [24, 0, 16, 8],
+			"sizeAdd": "0"
+		}
+	]
+}

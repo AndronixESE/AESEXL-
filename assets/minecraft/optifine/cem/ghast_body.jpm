@@ -1,0 +1,35 @@
+{
+"texture": "textures/entity/ghast/ghastglow.png",
+"textureSize": [2, 2],
+"credit": "By DraminOver",
+"boxes": [
+	{
+		"coordinates": [-7, -7.7, -7, 14, 14, 14],
+		"uvEast": [0, 0, 2, 2],
+		"uvNorth": [0, 0, 2, 2],
+		"uvWest": [0, 0, 2, 2],
+		"uvSouth": [0, 0, 2, 2],
+		"uvUp": [0, 0, 2, 2],
+		"uvDown": [0, 0, 2, 2]
+	}
+],
+"submodels": [
+		{
+			"texture": "textures/entity/ghast/ghast.png",
+			"textureSize": [256, 128],
+			"credit": "By DraminOver",
+			"boxes": [
+				{
+					"id": "body",
+					"coordinates": [-7.115, -7.805, -7.115, 14.23, 14.23, 14.23],
+					"uvEast": [0, 64, 64, 128],
+					"uvNorth": [64, 64, 128, 128],
+					"uvWest": [128, 64, 192, 128],
+					"uvSouth": [192, 64, 256, 128],
+					"uvUp": [128, 64, 64, 0],
+					"uvDown": [192, 0, 128, 64]
+				}
+			]
+		}
+	]
+}

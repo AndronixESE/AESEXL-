@@ -1,0 +1,55 @@
+{
+  "models": 
+  [
+    {
+		"part": "body",
+		"model": "ghast_body.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle1",
+		"model": "ghast_tentacle1.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle2",
+		"model": "ghast_tentacle2.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle3",
+		"model": "ghast_tentacle3.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle4",
+		"model": "ghast_tentacle4.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle5",
+		"model": "ghast_tentacle5.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle6",
+		"model": "ghast_tentacle6.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle7",
+		"model": "ghast_tentacle7.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle8",
+		"model": "ghast_tentacle8.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "tentacle9",
+		"model": "ghast_tentacle9.jpm",
+		"attach": "false"
+    }
+  ]
+}
