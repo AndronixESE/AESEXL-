@@ -25,7 +25,7 @@ https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets/
 https://www.planetminecraft.com/texture-pack/dswg-color-recipe-book-1-12-1-18/
 https://www.planetminecraft.com/texture-pack/realistic-vanilla-java
 https://www.planetminecraft.com/texture-pack/darkdawn-loading-screen
-https://www.planetminecraft.com/texture-pack/riper-propagules/comment/9942858/#reply_9942858
+https://www.planetminecraft.com/texture-pack/riper-propagules/
 
 special credit goes to: 
 RobiTheRainBoy and Mintorim that made my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/
