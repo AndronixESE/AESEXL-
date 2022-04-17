@@ -26,6 +26,9 @@ https://www.planetminecraft.com/texture-pack/dswg-color-recipe-book-1-12-1-18/
 https://www.planetminecraft.com/texture-pack/realistic-vanilla-java
 https://www.planetminecraft.com/texture-pack/darkdawn-loading-screen
 https://www.planetminecraft.com/texture-pack/riper-propagules/
+https://www.planetminecraft.com/texture-pack/moss-layers-5548056
 
-special credit goes to: 
-RobiTheRainBoy and Mintorim that made my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/
+
+special credits go to: 
+RobiTheRainBoy and Mintorim that made one of my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/
+Reijvi who's awesome and made the amazing reimagined pack: https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined
