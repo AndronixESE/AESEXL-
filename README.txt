@@ -27,7 +27,10 @@ https://www.planetminecraft.com/texture-pack/realistic-vanilla-java
 https://www.planetminecraft.com/texture-pack/darkdawn-loading-screen
 https://www.planetminecraft.com/texture-pack/riper-propagules/
 https://www.planetminecraft.com/texture-pack/moss-layers-5548056
-
+https://www.planetminecraft.com/texture-pack/chests-to-pouches
+https://www.planetminecraft.com/texture-pack/better-name-tags
+https://www.planetminecraft.com/texture-pack/xxvi-s-unstable-blocks
+https://www.curseforge.com/minecraft/texture-packs/flower-pots/screenshots
 
 special credits go to: 
 RobiTheRainBoy and Mintorim that made one of my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/

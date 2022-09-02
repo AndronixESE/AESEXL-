@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/unstable_cube_all",
+  "textures": {
+    "all": "minecraft:block/sand",
+    "floating": "minecraft:block/unstable_sand"
+  }
+}
