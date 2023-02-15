@@ -9,6 +9,7 @@ https://www.planetminecraft.com/texture-pack/better-end-boys/
 https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/ 
 https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/ 
 https://vanillatweaks.net/picker/resource-packs/
+https://www.curseforge.com/minecraft/texture-packs/particles
 https://www.planetminecraft.com/texture-pack/piglins-plus/
 https://www.planetminecraft.com/texture-pack/colourful-containers-gui/
 https://www.planetminecraft.com/texture-pack/random-mobs-resource-pack/
@@ -30,8 +31,8 @@ https://www.planetminecraft.com/texture-pack/moss-layers-5548056
 https://www.planetminecraft.com/texture-pack/chests-to-pouches
 https://www.planetminecraft.com/texture-pack/better-name-tags
 https://www.planetminecraft.com/texture-pack/xxvi-s-unstable-blocks
-https://www.curseforge.com/minecraft/texture-packs/flower-pots/screenshots
+https://www.curseforge.com/minecraft/texture-packs/flower-pots/
 
-special credits go to: 
+Special credits go to: 
 RobiTheRainBoy and Mintorim that made one of my favorite of those texturepacks: https://www.planetminecraft.com/texture-pack/visualised-enchanted-books-1-17-1/
 Reijvi who's awesome and made the amazing reimagined pack: https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined
