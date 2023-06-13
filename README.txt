@@ -9,7 +9,6 @@ https://www.planetminecraft.com/texture-pack/better-end-boys/
 https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/ 
 https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/ 
 https://vanillatweaks.net/picker/resource-packs/
-https://www.curseforge.com/minecraft/texture-packs/particles
 https://www.planetminecraft.com/texture-pack/piglins-plus/
 https://www.planetminecraft.com/texture-pack/colourful-containers-gui/
 https://www.planetminecraft.com/texture-pack/random-mobs-resource-pack/
