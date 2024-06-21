@@ -1,6 +1,5 @@
 {
-    "textures": {
-        "particle": "block_particle/ender_chest"
-    }
+  "textures": {
+    "particle": "minecraft:block/break/ender_chest"
+  }
 }
-

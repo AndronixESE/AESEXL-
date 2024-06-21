@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/flower_pot",
-		"flowerpot": "block/flower_pot",
+		"flowerpot": "block/custom_flower_pot",
 		"dirt": "block/flower_pot_soil"
 	},
 	"elements": [
