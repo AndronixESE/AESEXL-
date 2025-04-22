@@ -1,5 +1,6 @@
 {
 	"credit": "mr_ch0c0late",
+	"render_type": "cutout",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#flowerpot",

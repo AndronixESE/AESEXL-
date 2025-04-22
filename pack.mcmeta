@@ -1,6 +1,24 @@
 {
 	"pack":{
 		"pack_format": 34,
+"supported_formats": { "min_inclusive": 34, "max_inclusive": 55},
 		"description":"[An interesting pack for interesting people ;) Vanilla style! Better with Optifine or simillar mods!]"
+	},
+"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 55},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 55},
+				"directory": "overlay_46"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 55},
+				"directory": "overlay_53"
+			}
+		]
 	}
+
 }
